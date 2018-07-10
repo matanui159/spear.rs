@@ -1,0 +1,14 @@
+[package]
+name = "spear"
+version = "0.1.0"
+
+description = "A 2D focused fragment shading language that compiles to GLSL"
+readme = "README.md"
+license = "Apache-2.0"
+
+repository = "https://github.com/matanui159/spear.rs"
+authors = ["Joshua Minter <josh@minteronline.com>"]
+
+categories = ["rendering"]
+
+[dependencies]
