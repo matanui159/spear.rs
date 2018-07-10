@@ -1,6 +1,6 @@
 [package]
 name = "spear"
-version = "0.1.0"
+version = "0.1.1"
 
 description = "A 2D focused fragment shading language that compiles to GLSL"
 readme = "README.md"
